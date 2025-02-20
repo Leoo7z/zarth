@@ -17,4 +17,12 @@
       "userName": "Rzaa"
     }
   ]
+},
+{
+  "server": [
+    {
+      "srvControls": false,
+      "rVarReply": "..."
+    }
+  ]
 }
