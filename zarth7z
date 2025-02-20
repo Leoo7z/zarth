@@ -22,7 +22,7 @@
   "server": [
     {
       "srvControls": false,
-      "rVarReply": "..."
+      "rVarReply": "111"
     }
   ]
 }
